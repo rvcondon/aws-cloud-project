@@ -1,1 +1,1 @@
-aws-cloud-project: initial commit
+Cloud Project ideas for Azure and AWS
