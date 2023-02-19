@@ -1,0 +1,9 @@
+# Sample Docker images
+# https://fleet.linuxserver.io/ | https://hub.docker.com/
+
+docker pull nginx
+docker pull linuxserver/nginx
+
+docker pull python
+
+docker pull ubuntu
